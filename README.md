@@ -36,7 +36,4 @@ This repository contains a prototype for a Hotel Room Management System made for
 4. Start the frontend development server (`npm run dev`).
 
 
-
-=============================================================================================================================================================================================
-
 [Someet Shende]
