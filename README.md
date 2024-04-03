@@ -8,10 +8,10 @@ This repository contains a prototype for a Hotel Room Management System made for
 
 ## Features
 
-- **Dashboard**: Overview of bookings, revenue, and occupancy rate.
+- **Dashboard**: Overview of bookings and other basic functions.
 - **Bookings**: View and filter upcoming and past bookings.
-- **Book a Room**: Create new bookings with dynamic pricing.
-- **Edit & Cancel Bookings**: Modify or cancel existing bookings with adherence to cancellation policies.
+- **Book a Room**: Create new bookings with static pricing.
+- **Edit & Cancel Bookings**: Modify or cancel existing bookings with adherence to cancellation policies as mentioned in the assignment.
 
 ## Technologies Used
 
