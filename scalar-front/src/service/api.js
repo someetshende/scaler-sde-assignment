@@ -2,7 +2,7 @@ import axios from 'axios';
 
 
 
-const URL = 'http://localhost:8000';
+const URL = 'https://scaler-sde-assignment-ivory.vercel.app';
 
 export const addBooking= async(data) =>{
     try{
