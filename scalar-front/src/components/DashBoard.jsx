@@ -45,7 +45,7 @@ const DashBoard = () => {
     });
 
     useEffect(() => {
-        axios.get("http://localhost:8000/allBookings")
+        axios.get("https://scaler-sde-assignment-ivory.vercel.app/allBookings")
             .then((res) => {
                 setBookings(res.data);
                 setFilteredBookings(res.data); 
