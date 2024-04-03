@@ -48,7 +48,7 @@ const AllBookings = () => {
         const cost = calculateCost(startDate, endDate, roomType);
         alert(`The total cost for the booking is ₹${cost}`);
         try {
-            await axios.post('http://localhost:8000/createBooking', {
+            await axios.post('https://scaler-sde-assignment-ivory.vercel.app/createBooking', {
                 name: name,
                 email: email,
                 phone: phone,
