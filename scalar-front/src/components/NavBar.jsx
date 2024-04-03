@@ -25,7 +25,7 @@ const NavBar = () => {
         <Header position="static">
             <Toolbar>
                 <Logo>
-                    <Tabs to='/'>Hotel Room Management </Tabs>
+                    <Tabs to='/'>Hotel Room Management Assignment</Tabs>
                 </Logo>
                 <Tabs to='/'>Dashboard</Tabs>
                 <Tabs to='/allbookings'>Bookings</Tabs>
